@@ -61,3 +61,7 @@ Analyze the patterns and insights obtained from the model.
 ## 7. Implementation
 
 Develop a practical solution for integrating the predictive model into the financial institution's credit granting processes.
+
+
+![Screenshot 2024-06-20 112922](https://github.com/enderXM249/Credit_loan/assets/87566897/97ff8dfd-6a0c-4478-9205-b1e117ee46f6)
+
